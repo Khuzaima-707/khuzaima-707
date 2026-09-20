@@ -1,55 +1,149 @@
-## Hi there 👋
+<div align="center">
 
-<!--<div align="center" style="background-color:#f5f5f5; padding: 25px; border-radius: 5px;">
-<h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B,+I'm+Khuzaima+Ali+Warsi;FrontendDeveloper;React+%7C+Next.js+%7C" alt="Typing SVG" />
-</h1>
-<h3 style="font-size:20px;">
- Frontend Developer<br/>
-</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Khuzaima+Ali+Warsi;Frontend+Developer;React+%7C+Next.js+%7C+JavaScript" alt="Typing SVG" />
+
+<h3>Frontend Developer | React & Next.js</h3>
+
 <p>
-  <img src="https://komarev.com/ghpvc/?username=khuzaima-707&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  Building modern, responsive and user-focused web applications.
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,mongodb,git,&perline=12" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=khuzaima-707&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-<p align="center">
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Frontend Developer** focused on building modern, responsive and user-friendly web applications.
+
+- ⚛️ Working with **React.js** and modern JavaScript
+- 🚀 Building applications with **Next.js**
+- 🎨 Creating clean and responsive interfaces with **Tailwind CSS**
+- 🔌 Integrating REST APIs into frontend applications
+- 🧩 Building reusable and maintainable React components
+- 🔐 Working with authentication and application state
+- 📚 Continuously improving my frontend development skills
+- 💡 Interested in building real-world, production-ready applications
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind&perline=7" />
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,mongodb&perline=5" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/Lucide_React-00B4D8?style=for-the-badge&logo=lucide&logoColor=white" />
-  <img src="https://img.shields.io/badge/EJS-8B0000?style=for-the-badge&logo=ejs&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" />
-  <img src="https://img.shields.io/badge/Thunder_Client-FF6C37?style=for-the-badge&logo=thunderclient&logoColor=white" />
 </p>
-!
-### 🔗 Portfolio
-<p align="center">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=appveyor" alt="Portfolio"/>
-  </a>
-</p>
+
 ---
-### 👨‍💻 About Me
-- 🚀 **Full-Stack Developer** with a passion for building intelligent, data-driven web applications.
-- 🛠️ Recently engineered an **AI-powered Clinic Management Tool** to streamline healthcare workflows and patient data management.
-- ⚡ Currently diving deep into **Next.js** to master Server-Side Rendering (SSR) and building high-performance full-stack apps.
-- 🧠 Avid reader of **Tech Blogs**; I love staying updated with the latest trends in Web Architecture and AI integration.
-- 💡 Focus: Writing clean, scalable code and bridging the gap between **User Experience (UX)** and **Backend Logic**.
-- 💬 Ask me about: **React, AI Integration, or Frontend-to-Backend transitions.**
-- 📫 Let's connect! You can reach me at: [khuzaimaaliawarsi@gmail.com]
+
+## 🚀 What I Build
+
+| Area | Technologies |
+|------|-------------|
+| 🌐 Web Applications | React, Next.js, JavaScript |
+| 🎨 UI Development | Tailwind CSS, Responsive Design |
+| 🔌 API Integration | REST APIs, JWT |
+| 🔐 Authentication | Context API, JWT |
+| 🧩 State Management | Context API, Redux |
+| 🗄️ Database Integration | MongoDB |
+| ✨ Animations | Framer Motion |
+
+---
+
+## 📌 Featured Projects
+
+### 🛍️ BachatHunt
+
+A deals aggregation platform designed to bring discounted products and offers from multiple brands into one place.
+
+**Tech:** React · Node.js · Express · MongoDB · REST APIs
+
+---
+
+### 👨‍💼 Employee Management System
+
+A React-based employee management dashboard with authentication, role-based access, task assignment and task tracking.
+
+**Tech:** React · Context API · JavaScript · Tailwind CSS · LocalStorage
+
+---
+
+### 🧰 I Love Tools
+
+A collection of useful web-based utilities with a simple and responsive interface.
+
+**Tech:** HTML · CSS · JavaScript
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=khuzaima-707&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuzaima-707&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
 </div>
- mera github ko professtional karo axha sa 10x pro ho
 
-**Khuzaima-707/khuzaima-707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔥 GitHub Streak
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=khuzaima-707&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/khuzaima-707/khuzaima-707/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:khuzaimaaliawarsi@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/khuzaima-707">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Build. Create. Improve.
+
+</div>
