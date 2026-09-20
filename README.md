@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=42&duration=3000&pause=900&color=00A8FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Khuzaima+Ali+Warsi;Frontend+Developer;React+%7C+Next.js+%7C+JavaScript" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=42&duration=3000&pause=900&color=00A8FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Khuzaima+Ali+Warsi;Frontend+Developer;JavaScript+%7C+Next.js+%7C+React" alt="Typing Animation" />
 
 <h3>Frontend Developer building modern & responsive web experiences</h3>
 
